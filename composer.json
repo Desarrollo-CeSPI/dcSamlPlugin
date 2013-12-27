@@ -1,0 +1,15 @@
+{
+    "name": "desarrollo-cespi/dc-saml-plugin",
+    "description": "symfony plugin that provides SSO authentication and authorization using the SAML standard",
+    "license": "MIT",
+    "type": "symfony1-plugin",
+    "authors": [
+        {
+            "name": "Desarrollo CeSPI",
+            "email": "desarrollo@cespi.unlp.edu.ar"
+        }
+    ],
+    "require": {
+      "composer/installers": "~1.0"
+    }
+}

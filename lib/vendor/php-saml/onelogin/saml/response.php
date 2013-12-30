@@ -38,7 +38,7 @@
       $this->settings = $settings;
       $this->assertion = base64_decode($assertion);
       $this->xml = new DOMDocument();
-      $this->xml->loadXML($this->assertion);
+	$this->xml->loadXML($this->assertion);
     }
 
     /**
